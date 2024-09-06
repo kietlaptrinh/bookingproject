@@ -1,1 +1,1 @@
-# bookingproject
+# lakeSide-hotel-demo-server
